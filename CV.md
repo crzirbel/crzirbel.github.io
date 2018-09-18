@@ -1,7 +1,6 @@
-
 ---
 layout: page
-title: Contact me
+title: CV
 ---
 
 <html lang="en" style="width:100%; height:100%;">
