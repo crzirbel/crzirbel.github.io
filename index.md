@@ -13,4 +13,4 @@ For more information please check out my Research page
 
 For a list of my publications check out my CV
 
-<a class="twitter-timeline" data-width="350" data-height="800" href="https://twitter.com/crzirbel?ref_src=twsrc%5Etfw">Tweets by crzirbel</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="350" data-height="800" align="right" href="https://twitter.com/crzirbel?ref_src=twsrc%5Etfw">Tweets by crzirbel</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
