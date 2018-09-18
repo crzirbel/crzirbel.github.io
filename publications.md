@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications
+---
+
 Grman, E., **C.R. Zirbel**, T. Bassett, and L.A. Brudvig. (2018). Ecosystem multifunctionality increases with beta diversity in
 restored prairies. Oecologia.
 
