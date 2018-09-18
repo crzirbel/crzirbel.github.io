@@ -5,7 +5,7 @@ title: Research
 
 My research interests lie in understanding the fundamental drivers of community assembly, diversity ecosystem function relationships, and the coupling of this knowledge with concepts in and approaches to restoration ecology.  I work in Oak savannas at Cedar Creek LTER, restored prairies in southwestern Michigan, and an experimental prairie system at KBS LTER. My research focuses on three core areas:
 
-## Impacts of bison re-introduction on Oak Savanna plant communities
+### Impacts of bison re-introduction on Oak Savanna plant communities
 
 Oak savanna is one of Minnesota’s most threatened ecosystems. Today, less than 0.1% of savanna
 remains, and most have lost their native species as the lack of fire allows trees to
@@ -22,7 +22,7 @@ with oak seedlings and, when these ungrazed grasses burn, their high abundance c
 that kill oak seedlings. By introducing bison to the oak savannas at Cedar Creek we hope to better
 understand how we might preserve Minnesota’s oak savannas long into the future.
 
-## Testing theory in trait-based community assembly
+### Testing theory in trait-based community assembly
 
 Understanding how a species’ traits interact with its environment to determine performance is 
 the conceptual underpinning for most trait-based community assembly research. However, the field has 
@@ -36,7 +36,7 @@ community and invaders or trait-environment matching mediates the success of the
 and 2) Evaluate how trait environment interactions determine seedling establishment success in newly 
 restored prairies. 
 
-## Linking community assembly and biodiversity ecosystem function theory using functional traits
+### Linking community assembly and biodiversity ecosystem function theory using functional traits
 
 Plant functional traits have a great potential for linking the two major goals of ecological 
 restoration, community assembly and ecosystem function. Yet, this potential has been poorly realized.
