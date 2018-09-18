@@ -8,3 +8,8 @@ github_username:  crzirbel
 # Build settings
 markdown: kramdown
 theme: minima
+
+# page order
+header_pages:
+  - Research.md
+  - Contact.md
