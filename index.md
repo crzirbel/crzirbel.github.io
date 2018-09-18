@@ -9,8 +9,6 @@ My research broadly focuses on how plant functional traits structure the assembl
 undergoing restoration. Focusing on improving restoration success by applying knowledge from basic ecology research while also
 using restoration as a system to test community ecology and diversity-ecosystem function theory. 
 
-For more information please check out my Research page
-
-For a list of my publications check out my CV
+For more information please check out my [Research](https://crzirbel.github.io/Research.html) and [Publications](https://crzirbel.github.io/publications.html) pages.
 
 <a class="twitter-timeline" data-width="350" data-height="800" align="right" href="https://twitter.com/crzirbel?ref_src=twsrc%5Etfw">Tweets by crzirbel</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
