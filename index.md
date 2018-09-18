@@ -1,6 +1,6 @@
-{% include figure.html file="Zirbel_4.jpg" alt="Chad Zirbel" width="45%" %}
-
 Hello! Welcome to my website. I am a postdoc at the University of Minnesota and Cedar Creek LTER.
+
+<img align="right" src="Zirbel_4.jpg">
 
 I am currently working with Forest Isbell and Dave Tilman asking how grazing by bison reduces fire intensity and competition from
 dominant grasses to promote oak regeneration and the diversity of savanna species.
