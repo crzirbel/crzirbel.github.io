@@ -12,4 +12,5 @@ theme: minima
 # page order
 header_pages:
   - Research.md
+  - publications.md
   - Contact.md
