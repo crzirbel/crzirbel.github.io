@@ -12,3 +12,5 @@ using restoration as a system to test community ecology and diversity-ecosystem 
 For more information please check out my Research page
 
 For a list of my publications check out my CV
+
+<a class="twitter-timeline" href="https://twitter.com/crzirbel?ref_src=twsrc%5Etfw">Tweets by crzirbel</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
