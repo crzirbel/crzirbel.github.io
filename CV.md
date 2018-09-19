@@ -7,7 +7,7 @@ permalink: /CV
 <html lang="en">
 <head>
 <!-- note the meta tag -->
-<meta http-equiv="refresh" content="0; url=https://github.com/crzirbel/crzirbel.github.io/raw/master/Zirbel_CV.pdf" target="_blank" />
+<meta http-equiv="refresh" content="0; url=http://crzirbel.github.io/Zirbel_CV.pdf" target="_blank" />
   <meta charset="utf-8">
   <title>Chad CV</title>
 </head>
