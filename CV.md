@@ -4,4 +4,13 @@ layout: pdf
 permalink: /CV
 ---
 
-<object width="100%" height="100%" src="https://msu.edu/~zirbelch/Zirbel_CV.pdf" type="application/pdf" />
+<html lang="en">
+<head>
+<!-- note the meta tag -->
+<meta http-equiv="refresh" content="0; url=https://msu.edu/~zirbelch/Zirbel_CV.pdf" />
+  <meta charset="utf-8">
+  <title>Chad CV</title>
+</head>
+<body>
+</body>
+</html>
