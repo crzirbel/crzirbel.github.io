@@ -3,4 +3,4 @@ layout: page
 title: CV
 ---
 
-<embed src="https://msu.edu/~zirbelch/Zirbel_CV.pdf" type="application/pdf" />
+<embed width="100%" height="100%" src="https://msu.edu/~zirbelch/Zirbel_CV.pdf" type="application/pdf" />
