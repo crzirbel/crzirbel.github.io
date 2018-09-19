@@ -7,6 +7,8 @@ My research interests lie in understanding the fundamental drivers of community 
 
 ### Impacts of bison re-introduction on Oak Savanna plant communities
 
+<img align="right" height="250" width="250" hspace="5" src="images/bison12.jpg">
+
 Oak savanna is one of Minnesota’s most threatened ecosystems. Today, less than 0.1% of savanna
 remains, and most have lost their native species as the lack of fire allows trees to
 dominate and shade them out.
