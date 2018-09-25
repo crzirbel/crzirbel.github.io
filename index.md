@@ -3,7 +3,7 @@
             <link rel="shortcut icon" type="image/x-icon" 
                   href="{{ "images/favicon.ico"  | absolute_url }}">
       </head>
-
+</html>
 <img align="right" height="400" width="325" hspace="5" src="images/Zirbel_4.jpg">
 
 # This page is currently under construction
