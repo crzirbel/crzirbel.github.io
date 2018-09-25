@@ -9,6 +9,10 @@ github_username:  crzirbel
 markdown: kramdown
 theme: minima
 
+# plugins
+plugins:
+  - jekyll-seo-tag
+
 # page order
 header_pages:
   - Research.md
