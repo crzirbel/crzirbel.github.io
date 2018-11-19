@@ -26,7 +26,7 @@ understand how we might preserve Minnesota’s oak savannas long into the future
 
 ### Testing theory in trait-based community assembly
 
-<img align="right" height="250" width="375" hspace="5" src="images/KNC_prarie_2008.jpg">
+<img align="right" height="250" width="375" hspace="5" src="images/KNC_prairie_2008.jpg">
 
 Understanding how a species’ traits interact with its environment to determine performance is 
 the conceptual underpinning for most trait-based community assembly research. However, the field has 
@@ -42,7 +42,7 @@ restored prairies.
 
 ### Linking community assembly and biodiversity ecosystem function theory using functional traits
 
-<img align="right" height="250" width="375" hspace="5" src="images/Sandcreek_2012.jpg">
+<img align="right" height="250" width="375" hspace="5" src="images/Sandcreek_2012.JPG">
 
 Plant functional traits have a great potential for linking the two major goals of ecological 
 restoration, community assembly and ecosystem function. Yet, this potential has been poorly realized.
