@@ -2,6 +2,10 @@
 layout: page
 title: Publications
 ---
+**Zirbel, C.R.** and L.A. Brudvig (2020). Trait-environment interactions affect plant establishment success during restoration. Ecology.
+
+Kattge, J., G. Bönisch, S. Díaz, S. Lavorel, I.C. Prentice, P. Leadley, S. Tautenhahn, G. Werner, ... **C. R. Zirbel**,… and C. Wirth (2019). TRY plant trait database - enhanced coverage and open access. Global Change Biology. 00:1–70.
+
 Lau, J.A., S. Magnoli, **C.R. Zirbel**, and L.A. Brudvig. (2019). The limits to adaptation in restored ecosystems and how management can help overcome them. Annals of the Missouri Botanical Garden 104:441-454.
 
 **Zirbel, C.R.**, Grman, E. Bassett, T., and Brudvig, L.A. (2019). Landscape context explains ecosystem multifunctionality in restored grasslands better than plant diversity. Ecology 100(4):e02634.
