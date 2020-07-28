@@ -2,7 +2,11 @@
 layout: page
 title: Publications
 ---
-**Zirbel, C.R.** and L.A. Brudvig (2020). Trait-environment interactions affect plant establishment success during restoration. Ecology.
+**Zirbel, C.R.** and L.A. Brudvig (2020). Trait-environment interactions affect plant establishment success during restoration. Ecology 00(00):e02971. 10.1002/ecy.2971
+
+Schoolmaster, D.R. Jr., **C.R. Zirbel**, and J.P. Cronin. (2020). A graphical causal model for resolving species identity effects and biodiversity–ecosystem function correlations. Ecology 00(00):e03070. 10.1002/ecy.3070
+
+Ladwig, L.M., **Zirbel, C.R.**, Sorenson, Q.M., & Damschen, E.I. (2020). A taxonomic, phylogenetic, and functional comparison of restoration seed mixes and historical plant communities in Midwestern oak savannas. Forest Ecology and Management, 466, 118122.
 
 Kattge, J., G. Bönisch, S. Díaz, S. Lavorel, I.C. Prentice, P. Leadley, S. Tautenhahn, G. Werner, ... **C. R. Zirbel**,… and C. Wirth (2019). TRY plant trait database - enhanced coverage and open access. Global Change Biology. 00:1–70.
 
