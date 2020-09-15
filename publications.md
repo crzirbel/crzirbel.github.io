@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 ---
+Grman, E., **Zirbel, C.R.**, Bauer, J.T., Groves, A.M., Bassett, T., & Brudvig, L.A. (*In Press*). Super‐abundant C4 grasses are a mixed blessing in restored prairies. Restoration Ecology. doi: 10.1111/rec.13281
+
 **Zirbel, C.R.** and L.A. Brudvig (2020). Trait-environment interactions affect plant establishment success during restoration. Ecology 00(00):e02971. 10.1002/ecy.2971
 
 Schoolmaster, D.R. Jr., **C.R. Zirbel**, and J.P. Cronin. (2020). A graphical causal model for resolving species identity effects and biodiversity–ecosystem function correlations. Ecology 00(00):e03070. 10.1002/ecy.3070
