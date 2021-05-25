@@ -3,7 +3,16 @@ layout: page
 title: Research
 ---
 
-My research interests lie in understanding the fundamental drivers of community assembly, diversity ecosystem function relationships, and the coupling of this knowledge with concepts in and approaches to restoration ecology.  I work in Oak savannas at Cedar Creek LTER, restored prairies in southwestern Michigan, and an experimental prairie system at KBS LTER. My research focuses on three core areas:
+My research interests lie in understanding the fundamental drivers of community assembly, diversity ecosystem function relationships, and the coupling of this knowledge with concepts in and approaches to restoration ecology.  I work in Midwesern forests in Wisconsin, oak savannas at Cedar Creek LTER, restored prairies in southwestern Michigan, and an experimental prairie system at KBS LTER. My research focuses on four core areas:
+
+### Interactions between invasive shrubs, mammals, landscape context, and tree establishment in Midwestern forests
+
+<img align="right" height="250" width="375" hspace="5" src="images/oak_woodland.jpg">
+
+Forests provide essential ecosystem services including, timber production, atmospheric carbon sequestration, maintaining diverse understory plant communities, supporting agricultural services, and bolstering recreation and human health. Across the Midwestern United States forest fragments exist within a varied landscape. Urban and rural forests may differ in substantive ways that are highly relevant for plant recruitment. For example, it is widely appreciated that invasive species and native animals that eat plants (i.e., granivores and herbivores) constrain tree and plant recruitment. Interactions between invasive shrubs and herbivores also have the potential to drive recruitment limitation and modify forest biodiversity. Likewise the composition of forest granivore, herbivore, and predator communties may vary along an rural-to-urban gradient in ways that are important for tree seed and seedling survival.
+
+We are experimentally manipulating invasive shurb cover and mammalian consumers in Midwestern forests along a rural-to-urban gradient to ask how these factors interact to affect tree seed and seedling survival. We hope to inform the sustainable management of forests, and their associated ecosystem services, by understanding the factors that generate variation in tree recruitment and plant diversity.
+
 
 ### Impacts of bison re-introduction on Oak Savanna plant communities
 
