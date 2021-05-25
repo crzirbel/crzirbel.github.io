@@ -5,7 +5,7 @@
             {% seo %}
       </head>
 </html>
-<img align="right" height="400" width="325" hspace="5" src="images/Zirbel_4.jpg">
+<img align="right" height="400" width="400" hspace="5" src="images/Zirbel_headshot_circle_cropped.png">
 
 Hello! Welcome to my website. I am a postdoc at the University of Minnesota and Cedar Creek LTER.
 
