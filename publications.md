@@ -2,7 +2,9 @@
 layout: page
 title: Publications
 ---
-Grman, E., **Zirbel, C.R.**, Bauer, J.T., Groves, A.M., Bassett, T., & Brudvig, L.A. (*In Press*). Super‐abundant C4 grasses are a mixed blessing in restored prairies. Restoration Ecology. doi: 10.1111/rec.13281
+Catano, C.P., Bassett, T.J., Bauer, J.T., Grman, E., Groves, A.M., **Zirbel, C.R.**, & Brudvig, L.A. (*In Press*). Soil resources mediate the strength of species but not trait convergence across grassland restorations. Journal of Applied Ecology. doi.org/10.1111/1365-2664.13929
+
+Grman, E., **Zirbel, C.R.**, Bauer, J.T., Groves, A.M., Bassett, T., & Brudvig, L.A. (2021). Super‐abundant C4 grasses are a mixed blessing in restored prairies. Restoration Ecology. doi: 10.1111/rec.13281
 
 **Zirbel, C.R.** and L.A. Brudvig (2020). Trait-environment interactions affect plant establishment success during restoration. Ecology 00(00):e02971. 10.1002/ecy.2971
 
