@@ -7,8 +7,6 @@
 </html>
 <img align="right" height="400" width="325" hspace="5" src="images/Zirbel_4.jpg">
 
-# This page is currently under construction
-
 Hello! Welcome to my website. I am a postdoc at the University of Minnesota and Cedar Creek LTER.
 
 I am currently working with Forest Isbell and Dave Tilman asking how grazing by bison reduces fire intensity and competition from
