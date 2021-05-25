@@ -7,14 +7,12 @@
 </html>
 <img align="right" height="400" width="400" hspace="5" src="images/Zirbel_headshot_circle_cropped.png">
 
-Hello! Welcome to my website. I am a postdoc at the University of Minnesota and Cedar Creek LTER.
+Hello! Welcome to my website. I am a postdoc at the University of Wisconsin
 
-I am currently working with Forest Isbell and Dave Tilman asking how grazing by bison reduces fire intensity and competition from
-dominant grasses to promote oak regeneration and the diversity of savanna species.
+I am currently working with John Orrock and Brian Connolly asking how invasive shrubs and animals, small mammals and deer, modify tree establishment and understory plant
+diversity in Midwestern forests spanning a rural-to-urban gradient.
 
-My research broadly focuses on how plant functional traits structure the assembly of plant communities and functioning of ecosystems
-undergoing restoration. Focusing on improving restoration success by applying knowledge from basic ecology research while also
-using restoration as a system to test community ecology and diversity-ecosystem function theory. 
+In my research I use both large-scale observational and experimental studies to ask how ecological interactions, including global envirnonmental chages, large grazers, small mamals and functional traits, alter the assembly of plant communities and how theses plant assemblages provide ecosystem functions.
 
 For more information please check out my [Research](https://crzirbel.github.io/Research.html) and [Publications](https://crzirbel.github.io/publications.html) pages.
 
