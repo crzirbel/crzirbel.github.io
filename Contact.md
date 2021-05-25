@@ -4,8 +4,8 @@ title: Contact me
 ---
 
 Chad Zirbel  
-Ecology building, Rm 513  
-1987 Upper Buford Circle  
-St Paul, MN 55108
+Birge Hall  
+430 Lincoln Drive
+Madison, WI 53706
 
-Email: Zirbe032@umn.edu 
+Email: crzirbel@wisc.edu 
