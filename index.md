@@ -9,10 +9,10 @@
 
 Hello! Welcome to my website. I am a postdoc at the University of Wisconsin.
 
-I am currently working with John Orrock and Brian Connolly asking how invasive shrubs and animals, small mammals and deer, modify tree establishment and understory plant
+I am currently working with John Orrock and Brian Connolly asking how invasive shrubs and consumers, small mammals and deer, modify tree establishment and understory plant
 diversity in Midwestern forests spanning a rural-to-urban gradient.
 
-In my research I use both large-scale observational and experimental studies to ask how ecological interactions, including global envirnonmental chages, large grazers, small mamals, and functional traits, alter the assembly of plant communities and how theses plant assemblages provide ecosystem functions.
+In my research I use both large-scale observational and experimental studies to ask how ecological interactions, including global envirnonmental changes, large grazers, small mammals, and functional traits, alter the assembly of plant communities and how theses plant assemblages provide ecosystem functions.
 
 For more information please check out my [Research](https://crzirbel.github.io/Research.html) and [Publications](https://crzirbel.github.io/publications.html) pages.
 
