@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 ---
+Schoolmaster, D.R. Jr., **C.R. Zirbel**, and J.P. Cronin. (*Accepted*). A graphical causal model for resolving species identity effects and biodiversity–ecosystem function correlations: Reply. Ecology.
+
 Catano, C.P., Bassett, T.J., Bauer, J.T., Grman, E., Groves, A.M., **Zirbel, C.R.**, & Brudvig, L.A. (*In Press*). Soil resources mediate the strength of species but not trait convergence across grassland restorations. Journal of Applied Ecology. doi.org/10.1111/1365-2664.13929
 
 Grman, E., **Zirbel, C.R.**, Bauer, J.T., Groves, A.M., Bassett, T., & Brudvig, L.A. (2021). Super‐abundant C4 grasses are a mixed blessing in restored prairies. Restoration Ecology. doi: 10.1111/rec.13281
