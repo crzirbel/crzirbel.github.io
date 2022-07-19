@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 ---
+Isbell, F., Patricia Balvanera, Akira S Mori, Jin-Sheng He, James M. Bullock, ... **Chad R. Zirbel**,... and Meredith S. Palmer. 2022. (*In Press*). Expert perspectives on global biodiversity loss and its drivers and impacts on people. Frontiers in Ecology and the Environment. https://doi.org/10.1002/fee.2536
+
 Schoolmaster, D.R. Jr., **C.R. Zirbel**, and J.P. Cronin. (*Accepted*). A graphical causal model for resolving species identity effects and biodiversity–ecosystem function correlations: Reply. Ecology.
 
 Catano, C.P., Bassett, T.J., Bauer, J.T., Grman, E., Groves, A.M., **Zirbel, C.R.**, & Brudvig, L.A. (*In Press*). Soil resources mediate the strength of species but not trait convergence across grassland restorations. Journal of Applied Ecology. doi.org/10.1111/1365-2664.13929
