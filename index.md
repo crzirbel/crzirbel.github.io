@@ -5,7 +5,7 @@
             {% seo %}
       </head>
 </html>
-<img align="right" height="300" width="300" hspace="5" src="images/Zirbel_headshot_circle_cropped.png">
+<img align="right" height="300" width="300" hspace="5" src="images/ChadHeadshot-6-modified.png">
 
 Hello! Welcome to my website. I am a postdoc at the University of Wisconsin.
 
