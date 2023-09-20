@@ -7,7 +7,7 @@
 </html>
 <img align="right" height="300" width="300" hspace="5" src="images/ChadHeadshot-6-modified.png">
 
-Hello! Welcome to my website. I am a postdoc at the University of Wisconsin.
+Hello! Welcome to my website. I am a research scientist at the University of Wisconsin.
 
 I am currently working with John Orrock and Brian Connolly asking how invasive shrubs and consumers, small mammals and deer, modify tree establishment and understory plant
 diversity in Midwestern forests spanning a rural-to-urban gradient.
