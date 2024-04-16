@@ -18,7 +18,7 @@ Schoolmaster, D.R. Jr., **C.R. Zirbel**, J.P. Cronin. (2020). A graphical causal
 
 Ladwig, L.M., **Zirbel, C.R.**, Sorenson, Q.M., Damschen, E.I. (2020). A taxonomic, phylogenetic, and functional comparison of restoration seed mixes and historical plant communities in Midwestern oak savannas. *Forest Ecology and Management*, 466, 118122. doi.org/10.1016/j.foreco.2020.118122
 
-Kattge, J., G. Bönisch, S. Díaz, S. Lavorel, I.C. Prentice, P. Leadley, S. Tautenhahn, G. Werner, ... **C. R. Zirbel**,… C. Wirth (2019). TRY plant trait database - enhanced coverage and open access. *Global Change Biology*. 26: 119–188. https://doi.org/10.1111/gcb.14904
+Kattge, J., G. Bönisch, S. Díaz, S. Lavorel, I.C. Prentice, P. Leadley, S. Tautenhahn, G. Werner, ... **C. R. Zirbel**,… C. Wirth (2019). TRY plant trait database - enhanced coverage and open access. *Global Change Biology*. 26: 119–188. doi.org/10.1111/gcb.14904
 
 Lau, J.A., S. Magnoli, **C.R. Zirbel**, L.A. Brudvig. (2019). The limits to adaptation in restored ecosystems and how management can help overcome them. *Annals of the Missouri Botanical Garden*. 104:441-454. doi.org/10.3417/2019430
 
