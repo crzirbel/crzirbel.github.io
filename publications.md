@@ -2,11 +2,13 @@
 layout: page
 title: Publications
 ---
+Connolly, B., **Zirbel, C. R.**, Keller, C., Fuka, M., & Orrock, J. L. (2024). Invasive shrubs differentially alter autumnal activity for three common small‐mammal species. *Ecology.* 105(9) e4384. doi.org/10.1002/ecy.4384
+
 Connolly, B., **Zirbel, C.**, Orrock, J. (2024). Rodent-mediated seed limitation affects woody seedling establishment more than invasive shrubs and downed woody debris. *Canadian Journal of Forest Research.* 54(4): 421-430. doi.org/10.1139/cjfr-2023-0131
 
 Isbell, F., Balvanera, P., Mori, A. S., He, J. S., Bullock, J. M., Regmi, G. R., **Zirbel, C. R.**... Palmer, M. S. (2023). Expert perspectives on global biodiversity loss and its drivers and impacts on people.        *Frontiers in Ecology and the Environment*, 21(2), 94-103. doi.org/10.1002/fee.2536 
 
-Schoolmaster, D.R. Jr., **C.R. Zirbel**, and J.P. Cronin. (2022). A graphical causal model for resolving species identity effects and biodiversity–ecosystem function correlations: Reply. *Ecology*. 103(2):e03593.        10.1002/ecy.3593
+Schoolmaster, D.R. Jr., **C.R. Zirbel**, and J.P. Cronin. (2022). A graphical causal model for resolving species identity effects and biodiversity–ecosystem function correlations: Reply. *Ecology*. 103(2):e03593. 10.1002/ecy.3593
 
 Catano, C.P., Bassett, T.J., Bauer, J.T., Grman, E., Groves, A.M., **Zirbel, C.R.**, Brudvig, L.A. (2022). Soil resources mediate the strength of species but not trait convergence across grassland restorations. *Journal of Applied Ecology*. 59, 384–393. doi.org/10.1111/1365-2664.13929
 
